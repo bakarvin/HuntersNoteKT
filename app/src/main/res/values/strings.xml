@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HunterNotesKT</string>
+    <string name="nama_monster">Nama Monster</string>
+    <string name="tipe_monster">Tipe Monster</string>
+    <string name="item_separator">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</string>
+    <string name="desc_img_monster">Image Monster</string>
+</resources>
